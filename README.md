@@ -4,16 +4,6 @@
 
 Esta aplicação foi desenvolvida com [React](https://reactjs.org/) usando [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) com o objetivo de simplificar as listas de presença pelo whatsapp.
 
-<<<<<<< HEAD
-## Primeiros Passos
-
-Você só precisa fazer seu cadastro, depois criar sua chamada e enviar o link para quem quiser!
-
-[![Comece a usar agora](https://vercel.com/button)](https://chamadafacil.vercel.app/)
-
-
-## Como eu posso contribuir com esse projeto?
-=======
 
 ## Primeiros Passos
 
@@ -21,7 +11,6 @@ Você só precisa fazer seu cadastro, depois criar sua chamada e enviar o link p
 
 [Comece a usar agora!](https://chamadafacil.vercel.app/signin)
 
->>>>>>> 93b3cd70c3e705f26c8fbbd436e7d67bff7b8da1
 
 ## Como eu posso contribuir com esse projeto?
 Ajude-nos a desenvolver mais projetos como esse! É rápido e fácil!
